@@ -4,7 +4,7 @@ An easy way to setup a [DAuth](https://dauth.co) verifier endpoint.
 ## Usage
 
 ```
-npm install node-dauth-verifier
+npm install dauth-verifier
 ```
 
 On NodeJS + Express 
